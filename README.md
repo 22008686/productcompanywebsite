@@ -442,6 +442,14 @@ Publish the website in the given URL.
 
 ![people 1](https://github.com/22008686/productcompanywebsite/assets/118916413/68f6fb20-5402-4937-bdf6-17ddf59014e3)
 
+![people 2](https://github.com/22008686/productcompanywebsite/assets/118916413/294f678d-2711-40d6-aece-a8a03dd59454)
+
+![people 3](https://github.com/22008686/productcompanywebsite/assets/118916413/bd9fdaf2-f955-4dbc-b13c-25d0c43f5b2b)
+
+
+
+
+
 
 
 
