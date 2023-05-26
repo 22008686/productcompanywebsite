@@ -440,7 +440,10 @@ Publish the website in the given URL.
 
 ## People Page:
 
-![Uploading people 1.png…]()
+![people 1](https://github.com/22008686/productcompanywebsite/assets/118916413/68f6fb20-5402-4937-bdf6-17ddf59014e3)
+
+
+
 
 
 
