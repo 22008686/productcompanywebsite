@@ -40,7 +40,22 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![home page](https://github.com/22008686/productcompanywebsite/assets/118916413/928c860f-a75e-466a-8f86-8c412a7e010d)
+
+## Poduct Page:
+
+
+
+
+## People Page:
+
+
+
+
+
+
+
+
 
 ## Result:
 
