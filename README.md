@@ -448,29 +448,13 @@ Publish the website in the given URL.
 
 ![people 4](https://github.com/22008686/productcompanywebsite/assets/118916413/5f8020cd-2ca1-4f80-975a-496fe098b3d4)
 
-![Uploading people 5.png…]()
+![people 5](https://github.com/22008686/productcompanywebsite/assets/118916413/43591917-35f3-4c3c-ab01-fa94f932280f)
 
+![people 6](https://github.com/22008686/productcompanywebsite/assets/118916413/08ea4879-ad07-481a-b97c-49b5246fd67d)
 
+## Contact Page:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Uploading CONTACT PAGE.png…]()
 
 ## Result:
 
