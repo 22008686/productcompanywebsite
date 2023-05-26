@@ -446,6 +446,12 @@ Publish the website in the given URL.
 
 ![people 3](https://github.com/22008686/productcompanywebsite/assets/118916413/bd9fdaf2-f955-4dbc-b13c-25d0c43f5b2b)
 
+![people 4](https://github.com/22008686/productcompanywebsite/assets/118916413/5f8020cd-2ca1-4f80-975a-496fe098b3d4)
+
+![Uploading people 5.png…]()
+
+
+
 
 
 
